@@ -1,0 +1,23 @@
+.pokedex {
+	width: 100%;
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+}
+
+img {
+	width: 10rem;
+	margin: auto;
+}
+
+.info__text {
+	font: bold;
+	text-align: center;
+}
+
+.pokemon-stats {
+	list-style: none;
+	padding: 1em;
+	min-width: 20rem;
+}

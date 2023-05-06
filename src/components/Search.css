@@ -1,0 +1,14 @@
+.main__centered {
+	display: grid;
+	place-content: center;
+	width: 100vw;
+	height: 20vh;
+}
+
+.main__container {
+	max-width: 60rem;
+}
+
+.text-center {
+	text-align: center;
+}

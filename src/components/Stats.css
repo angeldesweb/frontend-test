@@ -1,0 +1,4 @@
+.pokemon-stat {
+	display: flex;
+	justify-content: space-between;
+}
